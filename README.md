@@ -13,6 +13,7 @@ Utiliza un algoritmo llamado **Isolation Forest** (Bosque de Aislamiento). Su l�
 
 ## Tecnología utilizada
 * **Python 3.10+:** Para procesar y analizar la información.
+* **Linux: Para el uso de GIF.
 * **Isotree:** Una librería de alta velocidad que permite procesar miles de transacciones por segundo con muy poco consumo de memoria.
 * **GIF:** Una librería de alta velocidad que permite procesar miles de transacciones por segundo con medio consumo de memoria.
 * **Lof:** Una librería de alta velocidad que permite procesar miles de transacciones por segundo con medio consumo de memoria.
